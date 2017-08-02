@@ -1,4 +1,4 @@
-# betaflight-fonts
+# Experimental fonts for Betaflight OSD   
 Some bitmap fonts for BetaFlight on-screen-display &mdash; for now there is just one.
 
 ![Screenshot](screenshot.png)
