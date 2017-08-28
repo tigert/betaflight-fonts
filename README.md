@@ -1,7 +1,7 @@
 # Experimental fonts for Betaflight OSD   
 Some bitmap fonts for BetaFlight on-screen-display &mdash; for now there is just one.
 
-  * Clarity – `clarity.mcm` – Large and readable font that that also tries to look nice.
+  * **Clarity** – a readable, larger font that that also tries to look nice.
 
 ![Screenshot](screenshot.png)
 
